@@ -224,3 +224,5 @@ wifi_credentials.json
 
 .vscode
 .micropico
+
+wipe_root.py
