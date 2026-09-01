@@ -219,3 +219,5 @@ __marimo__/
 
 # mac
 .DS_Store
+
+wifi_credentials.json
