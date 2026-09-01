@@ -5,6 +5,8 @@ def on_message(client, userdata, message):
     # needs to decode because original msg is encoded after publishing
     payload = message.payload.decode()
 
+    # code for storing data into TimescaleDB
+    
     print(payload)
 
 
